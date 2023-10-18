@@ -3,7 +3,7 @@
  10/11/23
  CPMR 131 - Professor Q
 
- Credit: Erik Santana, Joe Bryant, Saul, Otoniel, John Kim
+ Credit: Erik Santana, Joe Bryant, Saul Merino, Otoniel Torres Bernal, John Kim and Christian Hernandez
 
  */
 
