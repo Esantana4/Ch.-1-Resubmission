@@ -68,7 +68,7 @@ void challenge1()
     //convert the word using STL Vector
     vector<int> ascii;
     //file name
-    string fileName = "test.bin";
+    string fileName;
     //opening the file to write and read
     fstream writingAndRedingInBinary;
 
@@ -138,6 +138,9 @@ void challenge1()
                 system("cls");
                 goto beginning;
             }
+
+            fileName = inputString("\n\t\tEnter a binary file name to store the data: ", true);
+
             //going to be opening the file then writing to it
             writingAndRedingInBinary.open(fileName, ios::out | ios::binary);
 
